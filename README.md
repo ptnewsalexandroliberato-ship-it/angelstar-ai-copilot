@@ -15,8 +15,12 @@ O **AngelStar** é uma plataforma de inteligência artificial de elite, desenvol
 - **Interface Visual:** Modo Escuro Titanium (Estilo UI dos painéis Tesla).
 - **Framework:** Estrutura de Vendas de Alto Impacto.
 
+---
 ## 🔗 Acesso ao Sistema
-- [Acesse o App AngelStar aqui](COLE_AQUI_O_LINK_DO_LOVABLE)
+
+[![Acesse o App AngelStar](https://img.shields.io/badge/LANÇAR_MISSÃO-ANGELSTAR-blue?style=for-the-badge&logo=rocket)](https://neural-sales-copilot.lovable.app)
+
+*Clique no botão acima para abrir a interface do Copiloto no seu navegador.*
 
 ---
 *"A luz que guia a venda."* - Projeto AngelStar | Nível 6 DIO
